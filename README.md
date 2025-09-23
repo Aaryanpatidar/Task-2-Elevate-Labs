@@ -16,9 +16,9 @@ Menu-Driven – Easy navigation via numbered options
 
 **ScreenShots**
 
-![ClI Screenshot1](screenshots/StudentMS1.png)
+![ScreenShot1](screenshots/StudentMS1.PNG)
 
-![CLI Screenshot2](screenshots/StudentMS2.png)
+![ScreenShot2](screenshots/StudentMS2.PNG)
 
 **🛠 Tools & Requirements**
 
