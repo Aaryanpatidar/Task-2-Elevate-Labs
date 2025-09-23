@@ -14,6 +14,12 @@ Delete Student – Remove a student record by ID
 
 Menu-Driven – Easy navigation via numbered options
 
+**ScreenShots**
+
+![ClI Screenshot1](screenshots/StudentMS1.png)
+
+![CLI Screenshot2](screenshots/StudentMS2.png)
+
 **🛠 Tools & Requirements**
 
 Java JDK 8 or higher
