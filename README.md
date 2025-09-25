@@ -1,8 +1,8 @@
-**📝 Student Record Management System**
+# 📝 Student Record Management System
 
 A Command-Line Interface (CLI) Java program to manage student records with full CRUD functionality.
 
-**✨ Features**
+## ✨ Features
 
 Add Student – Store ID, Name, and Marks
 
@@ -14,13 +14,13 @@ Delete Student – Remove a student record by ID
 
 Menu-Driven – Easy navigation via numbered options
 
-**ScreenShots**
+## ScreenShots
 
 ![ScreenShot1](screenshots/StudentMS1.PNG)
 
 ![ScreenShot2](screenshots/StudentMS2.PNG)
 
-**🛠 Tools & Requirements**
+## 🛠 Tools & Requirements
 
 Java JDK 8 or higher
 
@@ -28,7 +28,7 @@ VS Code / IntelliJ IDEA CE (or any Java IDE)
 
 Command Line / Terminal
 
-**🚀 How to Run**
+## 🚀 How to Run
 
 Clone the repository
 
@@ -49,7 +49,7 @@ Follow the interactive menu:
 5. Exit
 Enter your choice:
 
-**📝 Notes**
+## 📝 Notes
 
 Student IDs are auto-incremented.
 
